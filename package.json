@@ -13,6 +13,15 @@
     "cordova-ios",
     "cordova-android"
   ],
+  "engines": {
+    "cordovaDependencies": {
+      "0.1.0": {
+        "cordova":">=3.3.0",
+        "cordova-android": ">=6.0.0",
+        "cordova-ios": ">=4.0.0"
+      }
+    }
+  },
   "author": "DDTChen",
   "license": "ISC",
   "repository": {
