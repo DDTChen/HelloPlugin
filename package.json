@@ -1,7 +1,6 @@
 {
   "name": "HGHello",
-  "version": "0.1.0",
-  "description": "",
+  "version": "1.0.0",
   "cordova": {
     "id": "hgplugin-hello",
     "platforms": [
@@ -14,6 +13,11 @@
     "cordova-ios",
     "cordova-android"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "DDTChen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.10.104/DDTChen/helloplugin.git"
+  },
+  "description": ""
 }
